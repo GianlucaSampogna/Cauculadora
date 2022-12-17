@@ -11,7 +11,7 @@ function calcular(){
             }
             else
             {
-                document.getElementById('resultado').innerHTML = "Nada..."
+                document.getElementById('resultado').innerHTML = "Diite algo"
             }
 }
 
